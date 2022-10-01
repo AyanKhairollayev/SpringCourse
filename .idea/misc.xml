@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/junit/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-11/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-13/spring-data-mongo-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-13/spring-data-keyvalue-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-15/spring-mvc-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-16/spring-mvc-view-classwork/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-17/spring-17-jquery/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-17/spring-17-boot-and-react/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-18/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-19/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-20/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-22/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-23/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-24/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-25/ACL/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-25/WebFlux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-28/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-29/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-30/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-31/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-32/docker-compose-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-04-aop/spring-04-aop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-04-aop/spring-04-aop-classwork/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-08-orm/demo-projects/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-08-orm/orm-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-07-jdbc/jdbc-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-09-jpql/jpql-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-09-jpql/jpql-class-work/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-05-adv-conf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-03-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-26-spring-batch/spring-batch-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
