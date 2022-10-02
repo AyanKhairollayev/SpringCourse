@@ -4,11 +4,12 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- TODO: определите бин класса ru.otus.spring.dao.PersonDaoSimple -->
-    <bean id="personDao" class="ru.otus.spring.dao.PersonDaoSimple"></bean>
-    <!-- TODO: определите бин класса ru.otus.spring.PersonServiceImpl -->
+    <bean id="personDao" class="ru.otus.spring.dao.PersonDaoSimple">
+        <property name="defaultAge" value="28"/>
+    </bean>
+
     <bean id="personServiceImpl" class="ru.otus.spring.service.PersonServiceImpl">
-        <constructor-arg name="dao" ref="personDao"></constructor-arg>
+        <property name="dao" ref="personDao"/>
     </bean>
 
 </beans>

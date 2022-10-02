@@ -3,7 +3,7 @@ package ru.otus.spring.domain;
 public class Person {
 
     private final String name;
-    private final int age;
+    private int age;
 
     public Person(String name, int age) {
         this.name = name;

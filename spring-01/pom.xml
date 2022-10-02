@@ -14,4 +14,13 @@
         <module>spring-01-exercise</module>
         <module>spring-01-solution</module>
     </modules>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.3.23</version>
+        </dependency>
+    </dependencies>
 </project>
